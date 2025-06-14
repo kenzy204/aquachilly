@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/aquachilly/static/js/main.63c4ca4b.js",
+    "main.js": "/aquachilly/static/js/main.d540ea3b.js",
     "static/media/logo.png": "/aquachilly/static/media/logo.8932bce44b6d642da8d0.png",
     "static/media/float-product.png": "/aquachilly/static/media/float-product.e02a0622a92217adf336.png",
     "index.html": "/aquachilly/index.html",
-    "main.63c4ca4b.js.map": "/aquachilly/static/js/main.63c4ca4b.js.map"
+    "main.d540ea3b.js.map": "/aquachilly/static/js/main.d540ea3b.js.map"
   },
   "entrypoints": [
-    "static/js/main.63c4ca4b.js"
+    "static/js/main.d540ea3b.js"
   ]
 }
