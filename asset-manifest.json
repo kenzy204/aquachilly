@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.js": "/aquachilly/static/js/main.04b79651.js",
+    "main.js": "/aquachilly/static/js/main.3cac59cc.js",
     "static/media/logo.png": "/aquachilly/static/media/logo.8932bce44b6d642da8d0.png",
     "static/media/float-product.png": "/aquachilly/static/media/float-product.e02a0622a92217adf336.png",
+    "static/media/screenshot-2025-06-14-072257.png": "/aquachilly/static/media/screenshot-2025-06-14-072257.78bd724a45914bfc3b2e.png",
+    "static/media/screenshot-2025-06-14-072340.png": "/aquachilly/static/media/screenshot-2025-06-14-072340.04f1d4c0f613374b1523.png",
+    "static/media/whatsapp-image-2025-06-14.jpg": "/aquachilly/static/media/whatsapp-image-2025-06-14.bc98fecaa2c3828525b6.jpg",
     "index.html": "/aquachilly/index.html",
-    "main.04b79651.js.map": "/aquachilly/static/js/main.04b79651.js.map"
+    "main.3cac59cc.js.map": "/aquachilly/static/js/main.3cac59cc.js.map"
   },
   "entrypoints": [
-    "static/js/main.04b79651.js"
+    "static/js/main.3cac59cc.js"
   ]
 }
